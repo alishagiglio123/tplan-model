@@ -15,8 +15,8 @@ import Image from "next/image";
 
 const examples = [
   "Decarbonization Projects 1",
-  "Decarbonization Projects 1",
-  "Decarbonization Projects 1",
+  "Decarbonization Projects 2",
+  "Decarbonization Projects 3",
 ];
 
 export default function Chat() {
